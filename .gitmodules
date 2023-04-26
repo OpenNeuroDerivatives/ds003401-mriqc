@@ -11,7 +11,7 @@
 	path = sourcedata/raw
 	url = https://github.com/OpenNeuroDatasets/ds003401.git
 	datalad-id = 1e4a19db-095c-465e-84dc-b43f8daea900
-	datalad-url = https://github.com/OpenNeuroDatasets/ds003401.git
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds003401
 [submodule "sourcedata/templateflow"]
 	path = sourcedata/templateflow
 	url = https://github.com/templateflow/templateflow.git
